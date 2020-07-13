@@ -7,10 +7,10 @@ import numpy as np
 
 
 
-import matplotlib.pyplot as plt 
-import matplotlib
-matplotlib.use("Agg")
-import seaborn as sns 
+#import matplotlib.pyplot as plt 
+#import matplotlib
+#matplotlib.use("Agg")
+#import seaborn as sns 
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score
 from sklearn.metrics import confusion_matrix, classification_report
